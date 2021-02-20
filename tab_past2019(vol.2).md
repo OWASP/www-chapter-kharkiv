@@ -24,32 +24,32 @@ tags: past2019(vol.2)-tag
 ### Speakers
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s1.jpg#center">
+  <a href="https://www.youtube.com/watch?v=utNBJ7r007M&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=1"><img width="400" height="500" src="assets/images/s1.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s2.jpg#center">
+  <a href="https://www.youtube.com/watch?v=oy5FeRila38&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=2"><img width="400" height="500" src="assets/images/s2.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s3.jpg#center">
+  <a href="https://www.youtube.com/watch?v=xD1j_vI80MM&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=3"><img width="400" height="500" src="assets/images/s3.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s4.jpg#center">
+  <a href="https://www.youtube.com/watch?v=-TVaMb-M7ys&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=5"><img width="400" height="500" src="assets/images/s4.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s5.jpg#center">
+  <a href="https://www.youtube.com/watch?v=doYW0pfc5fg&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=6"<img width="400" height="500" src="assets/images/s5.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <img width="400" height="500" src="assets/images/s6.jpg#center">
+  <a href="https://www.youtube.com/watch?v=1C_7j2xQw1w&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=7"<img width="400" height="500" src="assets/images/s6.jpg#center">
 </p>
 <br>
 
