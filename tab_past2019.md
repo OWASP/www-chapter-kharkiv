@@ -15,6 +15,16 @@ tags: past2019-tag
 
 **Location** Student Center of [Kharkiv School of Architecture](https://kharkiv.school/)
 
+### Speakers
+
+- Igor Bakalo [Secrets. Keys to the kingdom](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
+
+- Alexander Beloborodov [Безопасность популярных серверных операционных систем "в цифрах"](https://www.youtube.com/watch?v=t5ppNiw0UO4&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc&index=2)
+
+- Dmitry Tereshchenko [OWASP ASVS 4.0, What's new and How-to-Use it](https://www.youtube.com/watch?v=CdPwUcvpqRA&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc&index=3)
+
+- Dmitry Momot [Браузерные и внебраузерные методики идентификации пользователей веб-ресурсовx ч.1](https://www.youtube.com/watch?v=uP6zf4QjGtk&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc&index=5)
+
 **Translation**
 You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
 
