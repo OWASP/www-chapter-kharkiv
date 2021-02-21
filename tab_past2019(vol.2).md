@@ -53,7 +53,7 @@ tags: past2019(vol.2)-tag
 </p>
 <br>
 
-**Translation**
+**Translation**  
 You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=utNBJ7r007M&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO)
 
 

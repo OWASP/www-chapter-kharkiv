@@ -25,7 +25,7 @@ tags: past2019-tag
 
 - Dmitry Momot - [Browser-based and off-browser user identification methods part 1](https://www.youtube.com/watch?v=uP6zf4QjGtk&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc&index=5)
 
-**Translation**
+**Translation**  
 You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
 
 ## Sponsors

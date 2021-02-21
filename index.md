@@ -37,8 +37,7 @@ Replace the text above the commented area with your information in the format be
 
 Welcome to the OWASP Kharkiv chapter homepage.
 
-[Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
-The chapter is run by a team of dedicated cyber security enthusiasts.
+The chapter is run by a team of dedicated cyber security enthusiasts [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
 
 Everyone is welcome to join us at our chapter meetings.
 
