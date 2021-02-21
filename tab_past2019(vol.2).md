@@ -44,12 +44,12 @@ tags: past2019(vol.2)-tag
 <br>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=doYW0pfc5fg&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=6"<img width="400" height="500" src="assets/images/s5.jpg#center"></a>
+  <a href="https://www.youtube.com/watch?v=doYW0pfc5fg&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=6"><img width="400" height="500" src="assets/images/s5.jpg#center"></a>
 </p>
 <br>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=1C_7j2xQw1w&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=7"<img width="400" height="500" src="assets/images/s6.jpg#center">
+  <a href="https://www.youtube.com/watch?v=1C_7j2xQw1w&list=PL9SNXXIM4tGeXMazvrONdXrMrCWXma9dO&index=7"><img width="400" height="500" src="assets/images/s6.jpg#center"></a>
 </p>
 <br>
 
