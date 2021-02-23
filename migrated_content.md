@@ -127,5 +127,14 @@ You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=utNBJ7
 ![EPAM](assets/images/epam.jpg "EPAM")  
 
 
+## OWASP Interactive
+
+**Date** Apr 10, 2021
+
+**We are working on agenda and will share it here soon.**
+
+<img src="assets/images/wait.png" width="50" height="50">  
+
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Ukraine](Category:Ukraine "wikilink")
