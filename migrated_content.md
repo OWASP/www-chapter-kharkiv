@@ -100,7 +100,7 @@ You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=CC1kni
 
 ### Agenda
 
-![Agenda](assets/images/agenda.jpg "Agenda")
+<img src="assets/images/agenda.jpg" width="600" height="700">  
 
 ### Speakers
 
