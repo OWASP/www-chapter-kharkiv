@@ -7,7 +7,7 @@ Application Security community by funding our quarterly chapter
 meetings.
 
 
-![CSLtd](assets/images/csltd.jpg "CSLtd")
+![CSLtd](assets/images/csltd.jpg "CSLtd")  
 ![EPAM](assets/images/epam.jpg "EPAM")  
 ![WebSpellChecker](assets/images/webspellchecker.jpg "WebSpellChecker")  
 ![DevPro](assets/images/devpro.jpg "DevPro")
