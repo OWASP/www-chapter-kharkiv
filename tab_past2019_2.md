@@ -17,7 +17,7 @@ tags: past2019_2-tag
 
 ### Agenda
 
-![Agenda](assets/images/agenda.jpg "Agenda")
+<img src="assets/images/agenda.jpg" width="600" height="700">  
 
 ### Speakers
 
