@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kharkiv
-tags: supporters-tag past2019-tag past2019(vol.2)-tag
+tags: supporters-tag past2019-tag past2019_2-tag
 level: 0
 
 region: Europe
@@ -17,7 +17,7 @@ region: Europe
 
 Welcome to the OWASP Kharkiv chapter homepage.
 
-The chapter is run by a team of dedicated cyber security enthusiasts [Vitalii Balashov](mailto:vlad.styran@owasp.org).balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+The chapter is run by a team of dedicated cyber security enthusiasts [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
 
 Everyone is welcome to join us at our chapter meetings.
 
@@ -26,10 +26,10 @@ Everyone is welcome to join us at our chapter meetings.
 OWASP Kharkiv on social networks:
 
 Follow our news and announcements on social media:
-[Facebook](https://www.facebook.com/owasp.kh/)
-[Telegram](https://t.me/owasp_kharkiv)
-[Instagram](https://www.instagram.com/owasp_kharkiv/)
-[Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
+- [Facebook](https://www.facebook.com/owasp.kh/)
+- [Telegram](https://t.me/owasp_kharkiv)
+- [Instagram](https://www.instagram.com/owasp_kharkiv/)
+- [Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
 
 ## How to support the chapter
 
