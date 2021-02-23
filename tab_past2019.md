@@ -28,12 +28,7 @@ tags: past2019-tag
 **Translation**  
 You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
 
-## Sponsors
+## Sponsors  
 
-<p align="center">
-  <a href="https://webspellchecker.com/"><img width="300" height="300" src="assets/images/webspellchecker.jpg#center"></a>
-</p>
-
-<p align="center">
-  <a href="https://dev.pro/"><img width="300" height="300" src="assets/images/devpro.jpg#center"></a>
-</p>
+![WebSpellChecker](assets/images/webspellchecker.jpg "WebSpellChecker")  
+![DevPro](assets/images/devpro.jpg "DevPro")
