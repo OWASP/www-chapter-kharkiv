@@ -1,3 +1,12 @@
+---
+title: supporters
+displaytext: Our Supporters
+layout:  null
+tab: true
+# order: 1
+tags: supporters-tag
+---
+
 ## Our supporters
 
 ### Chapter meeting sponsors
