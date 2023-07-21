@@ -17,8 +17,7 @@ region: Europe
 
 Welcome to the OWASP Kharkiv chapter homepage.
 
-The chapter is run by a team of dedicated cyber security enthusiasts [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
-
+The chapter is run by a team of dedicated cyber security enthusiasts [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) 
 Everyone is welcome to join us at our chapter meetings.
 
 ## How to find us
@@ -33,7 +32,7 @@ Follow our news and announcements on social media:
 
 ## How to support the chapter
 
-If your company wishes to support the chapter, please contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+If your company wishes to support the chapter, please contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org)
 
 # Future Events
 
@@ -43,11 +42,11 @@ Call For Speakers at OWASP Kharkiv events is permanently open. If you want
 to present at future events, review and agree with the [OWASP Speaker
 Agreement](Speaker_Agreement "wikilink") and check for upcoming events
 at <https://cfp.owaspukraine.org>, or simply send the title and abstract
-of your talk and speaker bio to [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+of your talk and speaker bio to [Vitalii Balashov](mailto:vitalii.balashov@owasp.org)
 
 ## Become a Sponsor
 
-To sponsor an OWASP Kharkiv event, contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+To sponsor an OWASP Kharkiv event, contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) 
 
 ## Announcements
 >
