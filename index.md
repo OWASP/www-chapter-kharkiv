@@ -5,6 +5,7 @@ title: OWASP Kharkiv
 tags: supporters-tag past2019-tag past2019_2-tag planned-tag
 level: 0
 
+country: Ukraine
 region: Europe
 
 
