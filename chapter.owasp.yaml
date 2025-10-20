@@ -1,0 +1,23 @@
+leaders:
+  - name: Vitalii Balashow
+    email: vitalii.balashov@owasp.org
+  - name: Mark Idenko
+    email: mark.idenko@owasp.org
+location:
+  country: Ukraine
+  country_code: UA
+  region: Kharkiv Oblast
+  city: Kharkiv
+  latitude: 49.9923181
+  longitude: 36.2310146
+name: OWASP Kharkiv
+repositories:
+  - name: www-chapter-kharkiv
+    url: https://github.com/OWASP/www-chapter-kharkiv
+    description: OWASP Foundation Web Repository
+tags:
+  - supporters-tag
+  - past2019-tag
+  - past2019_2-tag
+  - planned-tag
+website: https://owasp.org/www-chapter-kharkiv
